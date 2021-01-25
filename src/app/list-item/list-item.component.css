@@ -1,0 +1,20 @@
+.list {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 3px;
+    border: 5px solid hotpink;
+    font-family: "Open Sans", sans-serif;
+    background-color: lightgreen;
+  }
+
+  h2{
+      color: hotpink;
+  }
+
+  a {
+    color: navy;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    background-color: yellow;
+  }
+ 
